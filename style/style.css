@@ -364,6 +364,7 @@ footer hr{
     padding: 25px 30px;
     border-radius: 25px;
     background:linear-gradient(29560deg,brown,black);
+    box-shadow: 40px 40px 60px black;
 }
 
 .cintainer-form .heading-form{
